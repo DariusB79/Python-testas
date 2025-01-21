@@ -1,3 +1,3 @@
 print("Labas")
-print("Viso :-) ")
+
 
